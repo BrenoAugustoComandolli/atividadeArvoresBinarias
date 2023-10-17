@@ -1,0 +1,29 @@
+{
+   "nome":"Node1",
+   "esquerda":{
+      "nome":"Node2",
+      "esquerda":{
+         "nome":"Node3",
+         "esquerda":null,
+         "direita":null
+      },
+      "direita":{
+         "nome":"Node4",
+         "esquerda":null,
+         "direita":null
+      }
+   },
+   "direita":{
+      "nome":"Node5",
+      "esquerda":{
+         "nome":"Node7",
+         "esquerda":null,
+         "direita":null
+      },
+      "direita":{
+         "nome":"Node6",
+         "esquerda":null,
+         "direita":null
+      }
+   }
+}
